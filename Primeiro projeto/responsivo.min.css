@@ -1,0 +1,24 @@
+@media only screen and (max-width:1200px){
+    .geral {
+        width: 100%;
+    }
+
+}
+@media only screen and (max-width:990px){
+    .geral {
+        width: 90%;
+    }
+
+}
+@media only screen and (max-width:770px){
+    .geral {
+        width: 80%;
+    }
+
+}
+@media only screen and (max-width:570px){
+    .geral {
+        width: 80%;
+    }
+
+}
