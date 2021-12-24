@@ -63,12 +63,34 @@ h2{
 .conteudo h3{
     color: #2f4461;
     margin-bottom: 3%;
+    font-size: 2em;
 }
 .terceira-sessao{
     padding: 5%;
     float: left;
+    margin: 3%;
+}
+.terceira-sessao p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
 }
 .quarta-sessao{
     padding: 3%;
     float: right;
+}
+.quarta-sessao{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+.conteudo-dois{
+    display: flex;
+}
+.quinta-sessao{
+    float: left;
+    padding: 3%;
+}
+.ultima-sessao{
+    padding: 3%;
+    float: right;
+    margin: 3%;
 }
