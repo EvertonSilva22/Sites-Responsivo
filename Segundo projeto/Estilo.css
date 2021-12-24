@@ -3,6 +3,7 @@
     margin: 0px;
     padding: 0px;
 }
+/*** cabeçalho***/
 header{
     background-color:rgba(0, 0, 0, 0.904);
     padding: 3%;
@@ -52,4 +53,21 @@ h2{
 .cabecalho a:hover{
     color: white;
     background-color: #5454ce;
+}
+/***conteudo principal***/
+.conteudo{
+        display: flex;
+        background-color: #fbfbfb;
+        padding: 3%;
+}
+.conteudo h3{
+    color: #2f4461;
+}
+.terceira-sessao{
+    padding: 5%;
+    float: left;
+}
+.quarta-sessao{
+    padding: 3%;
+    float: right;
 }
