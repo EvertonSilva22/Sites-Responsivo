@@ -126,10 +126,10 @@ h2{
     height: 110px;
     display: block;
     margin-bottom: 2%;
-    margin-left: 500px;
+    margin-left: 550px;
 }
 .votos {
-    margin-left: 500px;
+    margin-left: 550px;
     margin-bottom: 3%;
 }
 .depoimento strong{
@@ -137,9 +137,13 @@ h2{
     font-size: 18px;
     text-align: center;
     margin: 1%;
+    color: #6e6c6c;
     
 }
 .depoimento h3{
     margin-top: 1%;
+    font-size: 15px;
+    text-align: center;
+    color: #6e6c6c;
 }
 
