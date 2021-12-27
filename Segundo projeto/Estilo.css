@@ -119,5 +119,27 @@ h2{
 .depoimento{
     padding: 5%;
     background-color: #fbfbfb;
-    margin: 2%;
 }
+.depoimento img{
+    border-radius: 50%;
+    width: 110px;
+    height: 110px;
+    display: block;
+    margin-bottom: 2%;
+    margin-left: 500px;
+}
+.votos {
+    margin-left: 500px;
+    margin-bottom: 3%;
+}
+.depoimento strong{
+    font-family: cursive;
+    font-size: 18px;
+    text-align: center;
+    margin: 1%;
+    
+}
+.depoimento h3{
+    margin-top: 1%;
+}
+
