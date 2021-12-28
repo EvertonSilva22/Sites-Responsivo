@@ -1,0 +1,54 @@
+@media only screen and (max-width:1200px){
+  
+
+}
+@media only screen and (max-width:990px){
+   
+
+}
+@media only screen and (max-width:770px){
+    
+
+}
+@media only screen and (max-width:570px){
+    /*** cabeçalho ***/
+
+    .primeira-sessao{
+        width: 100%;
+        margin-right: -20%;
+        
+    }
+     .primeira-sessao p{
+        margin-top: 120%;
+        text-align: justify;
+     }
+     .segunda-sessao{
+         width: 30%;
+     }    
+     .segunda-sessao img{
+         width: 290%;
+        margin-left: -250%;
+        margin-top: 150px;
+         
+     }
+     .cabecalho a{
+        color: #5454ce;
+        text-decoration: none;
+        border:  solid 2px #5454ce;
+        padding: 4%;
+        margin: 1%;
+        margin-left: 13%;
+    }
+    /***conteudo principal***/
+    .quarta-sessao{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 15px;
+        margin-left: -120%;
+        margin-top: 30%;
+        text-align: justify;
+        line-height: 1.8em;
+        width: 280%;
+    }
+    }
+        
+    
