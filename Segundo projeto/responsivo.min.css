@@ -28,40 +28,53 @@
          width: 30%;
      }    
      .segunda-sessao img{
-         width: 290%;
+        width: 290%;
         margin-left: -250%;
-        margin-top: 150px;
+        margin-top: 145px;
+        margin-bottom: 12%;
          
      }
      .cabecalho a{
         color: #5454ce;
         text-decoration: none;
         border:  solid 2px #5454ce;
-        padding: 4%;
+        padding: 2.8%;
         margin: 1%;
-        margin-left: 13%;
-        max-width: 570px;
+        margin-left: 5%;
+        
+        
     }
     /***conteudo principal***/
+    .terceira-sessao{
+        max-width: 100%;
+        display: block;
+    }
     .terceira-sessao h3{
-        margin-left: 20%;
+        text-align: center;
+        width: 80%;
     }
     .terceira-sessao p{
-        width: 80%;
         text-align: center;
+        width: 80%;
     }
-    .quarta-sessao{
+    .quarta-sessao {
         font-family: Arial, Helvetica, sans-serif;
         font-size: 15px;
         margin-left: -120%;
-        margin-top: 30%;
+        margin-top: 50%;
         text-align: justify;
         line-height: 1.8em;
-        width: 280%;
+        max-width: 280%;
+    }
+   
+    .quinta-sessao img{
+        width: 400px;
     }
     .ultima-sessao{
-        margin-left: -90%;
-        margin-top: 70%;
+        margin-top: 80%;
+        width: 80%;
+        margin-left: -100%;
+        
     }
     .depoimento img{
         border-radius: 50%;
@@ -69,10 +82,10 @@
         height: 110px;
         display: block;
         margin-bottom: 2%;
-        margin-left: 200px;
+        margin-left: 38%;
     }
     .votos {
-        margin-left: 200px;
+        margin-left: 38%;
         margin-bottom: 3%;
     }
     /*** Rodapé ***/
@@ -81,7 +94,7 @@
         text-decoration: none;
         border:  solid 2px #5454ce;
         padding: 1%;
-        margin-left: 200px;
+        margin-left: 38%;
     }
     
     }
@@ -135,11 +148,11 @@
         display: block;
     }
     .quinta-sessao img{
-        max-width: 100%;
+        max-width: 80%;
     }
     .ultima-sessao{
         margin-top: 70%;
-        max-width: 90%;
+        max-width: 80%;
         
     }
     .depoimento img{
