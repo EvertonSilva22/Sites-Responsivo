@@ -38,9 +38,9 @@
         color: #5454ce;
         text-decoration: none;
         border:  solid 2px #5454ce;
-        padding: 2.8%;
+        padding: 2%;
         margin: 1%;
-        margin-left: 5%;
+        margin-left: 10%;
         
         
     }
@@ -66,14 +66,17 @@
         line-height: 1.8em;
         max-width: 280%;
     }
-   
+    .quinta-sessao{
+        max-width: 100%;
+    }
     .quinta-sessao img{
-        width: 400px;
+        width: 95%;
+        margin-left: 1%;
     }
     .ultima-sessao{
         margin-top: 80%;
         width: 80%;
-        margin-left: -100%;
+        margin-left: -90%;
         
     }
     .depoimento img{
