@@ -7,7 +7,32 @@
 
 }
 @media only screen and (max-width:770px){
-    
+    .primeira-sessao{
+        width: 50%;
+        
+    }
+    .primeira-sessao p{
+        font-size: 18px;
+        text-align: justify;
+    }
+    .segunda-sessao{
+        width: 50%;
+    }
+    .segunda-sessao img{
+        width: 100%;
+        margin-top: 40%;
+    }
+    .terceira-sessao{
+        width: 50%;
+    }
+    .terceira-sessao p{
+        text-align: justify;
+        font-size: 18px;
+        
+    }
+    .quarta-sessao{
+        width: 50%;
+    }
 
 }
 @media only screen and (max-width:570px){
