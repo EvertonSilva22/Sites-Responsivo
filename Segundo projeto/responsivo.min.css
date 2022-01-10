@@ -27,11 +27,27 @@
     }
     .terceira-sessao p{
         text-align: justify;
-        font-size: 18px;
+        font-size: 16px;
         
     }
     .quarta-sessao{
         width: 50%;
+    }
+    .quarta-sessao p{
+        text-align: justify;
+    }
+    .quinta-sessao{
+        width: 50%;
+    }
+    .quinta-sessao img{
+        margin-top: 30%;
+        width: 100%;
+    }
+    .ultima-sessao{
+        width: 50%;
+    }
+    .ultima-sessao p{
+        text-align: justify;
     }
 
 }
