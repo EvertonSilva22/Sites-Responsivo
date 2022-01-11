@@ -49,6 +49,15 @@
     .ultima-sessao p{
         text-align: justify;
     }
+    .depoimento img{
+        margin-left: 42%;
+    }
+    .votos{
+        margin-left: 42%;
+    }
+    .rodape a{
+        margin-left: 42%;
+    }
 
 }
 @media only screen and (max-width:570px){
@@ -87,36 +96,38 @@
     }
     /***conteudo principal***/
     .terceira-sessao{
-        max-width: 100%;
-        display: block;
+        width: 80%;
+        
     }
     .terceira-sessao h3{
         text-align: center;
-        width: 80%;
     }
     .terceira-sessao p{
-        text-align: center;
-        width: 80%;
-    }
-    .quarta-sessao {
-        font-family: Arial, Helvetica, sans-serif;
-        font-size: 15px;
-        margin-left: -120%;
-        margin-top: 50%;
         text-align: justify;
-        line-height: 1.8em;
-        max-width: 280%;
+    }
+    
+    .quarta-sessao{
+        margin-top: 50%;
+        width: 90%;
+        margin-left: -90%;
+        
+        
+    }
+    .quarta-sessao p{
+        
+        text-align: justify;
+
     }
     .quinta-sessao{
-        max-width: 100%;
+        width: 100%;
     }
     .quinta-sessao img{
-        width: 95%;
-        margin-left: 1%;
+        width: 80%;
+        
     }
     .ultima-sessao{
         margin-top: 80%;
-        width: 80%;
+        width: 100%;
         margin-left: -90%;
         
     }
@@ -142,7 +153,7 @@
     }
     
     }
-    @media only screen and (max-width:380px){
+    @media only screen and (max-width:390px){
         /*** cabeçalho ***/
     .primeira-sessao{
         max-width: 100%;
@@ -155,7 +166,7 @@
          display: block;
      }    
      .segunda-sessao img{
-         max-width: 100%;
+         width: 260%;
      }
      .cabecalho a{
         color: #5454ce;
@@ -167,20 +178,19 @@
     }
     /***conteudo principal***/
     .terceira-sessao{
-        width: 100%;
-        display: block;
+        width: 85%;
+        
+        
     }
-    .terceira-sessao h3{
-        margin-left: 2%;
-        margin-bottom: 2%;
-    }
+    
     .terceira-sessao p{
-        text-align: center;
+        text-align: justify;
     }
     .quarta-sessao{
-        margin-top: 50%;
-        width: 100%;
+        margin-top: 71%;
+        width: 95%;
         display: block;
+        
 
     }
     .quarta-sessao p{
@@ -188,15 +198,16 @@
         
     }
     .quinta-sessao{
-       
         display: block;
     }
     .quinta-sessao img{
-        max-width: 80%;
+        margin-top: -2%;
+        width: 100%;
+        margin-left: 3%;
     }
     .ultima-sessao{
-        margin-top: 70%;
-        max-width: 80%;
+        margin-top: 60%;
+        width: 100%;
         
     }
     .depoimento img{
