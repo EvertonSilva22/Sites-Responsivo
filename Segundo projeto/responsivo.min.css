@@ -122,7 +122,9 @@
         width: 100%;
     }
     .quinta-sessao img{
-        width: 80%;
+        margin-top: 0%;
+        width: 100%;
+        margin-left: 3%;
         
     }
     .ultima-sessao{
