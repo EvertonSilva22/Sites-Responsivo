@@ -69,14 +69,16 @@ h2{
     padding: 5%;
     float: left;
     margin: 3%;
+    width: 50%;
 }
 .terceira-sessao p{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
 }
 .quarta-sessao{
-    padding: 3%;
+    padding: 8%;
     float: right;
+    width: 50%;
 }
 .quarta-sessao{
     font-family: Arial, Helvetica, sans-serif;
