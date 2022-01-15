@@ -17,6 +17,10 @@ header{
     padding: 5%;
     float: left;
     padding-top: 15%;
+    
+}
+.primeira-sessao p{
+    text-align: justify;
 }
 .segunda-sessao{
     padding: 1%;
@@ -76,18 +80,16 @@ h2{
     font-size: 15px;
 }
 .quarta-sessao{
-    padding: 8%;
+    padding: 6%;
     float: right;
-    width: 50%;
+    
 }
-.quarta-sessao{
+.quarta-sessao p{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
+    text-align: justify;
 }
 
-.teste-teste{
-    color: green;
-}
 .conteudo-dois{
     display: flex;
 }
@@ -112,6 +114,7 @@ h2{
 .ultima-sessao p{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
+    text-align: justify;
 }
 .ultima-sessao h3{
     padding-top: 2%;
