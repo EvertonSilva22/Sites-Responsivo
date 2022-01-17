@@ -78,9 +78,9 @@
          width: 30%;
      }    
      .segunda-sessao img{
-        width: 290%;
-        margin-left: -250%;
-        margin-top: 145px;
+        width: 200%;
+        margin-left: -220%;
+        margin-top: 240%;
         margin-bottom: 12%;
          
      }
@@ -155,6 +155,102 @@
     }
     
     }
+    @media only screen and (max-width:450px){
+        /*** cabeçalho ***/
+        
+    
+        .primeira-sessao{
+            width: 100%;
+            margin-right: -20%;
+            
+            
+        }
+         .primeira-sessao p{
+            margin-top: 120%;
+            text-align: justify;
+         }
+         .segunda-sessao{
+             width: 30%;
+         }    
+         .segunda-sessao img{
+            width: 200%;
+            margin-left: -220%;
+            margin-top: 280%;
+            margin-bottom: 12%;
+             
+         }
+         .cabecalho a{
+            color: #5454ce;
+            text-decoration: none;
+            border:  solid 2px #5454ce;
+            padding: 2%;
+            margin: 1%;
+            margin-left: 10%;
+            
+            
+        }
+        /***conteudo principal***/
+        .terceira-sessao{
+            width: 80%;
+            
+        }
+        .terceira-sessao h3{
+            text-align: center;
+        }
+        .terceira-sessao p{
+            text-align: justify;
+        }
+        
+        .quarta-sessao{
+            margin-top: 70%;
+            width: 90%;
+            margin-left: -90%;
+            
+            
+        }
+        .quarta-sessao p{
+            
+            text-align: justify;
+    
+        }
+        .quinta-sessao{
+            width: 100%;
+        }
+        .quinta-sessao img{
+            margin-top: 0%;
+            width: 100%;
+            margin-left: 3%;
+            
+        }
+        .ultima-sessao{
+            margin-top: 80%;
+            width: 100%;
+            margin-left: -90%;
+            
+        }
+        .depoimento img{
+            border-radius: 50%;
+            width: 110px;
+            height: 110px;
+            display: block;
+            margin-bottom: 2%;
+            margin-left: 38%;
+        }
+        .votos {
+            margin-left: 38%;
+            margin-bottom: 3%;
+        }
+        /*** Rodapé ***/
+        .rodape a{
+            color: #5454ce;
+            text-decoration: none;
+            border:  solid 2px #5454ce;
+            padding: 1%;
+            margin-left: 38%;
+        }
+        
+        }
+    
     @media only screen and (max-width:390px){
         /*** cabeçalho ***/
     .primeira-sessao{
@@ -169,6 +265,7 @@
      }    
      .segunda-sessao img{
          width: 260%;
+         margin-top: 310%;
      }
      .cabecalho{
          width: 100%;
@@ -251,6 +348,8 @@
      }    
      .segunda-sessao img{
          width: 260%;
+         margin-top: 350%;
+         
      }
      .cabecalho a{
         color: #5454ce;

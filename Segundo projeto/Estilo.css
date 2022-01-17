@@ -115,6 +115,7 @@ h2{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
     text-align: justify;
+    margin-bottom: 5%;
 }
 .ultima-sessao h3{
     padding-top: 2%;
@@ -123,6 +124,17 @@ h2{
     font-size: 2em;
     padding-bottom: 2%;
 
+}
+.ultima-sessao a{
+    color: #5454ce;
+    text-decoration: none;
+    border:  solid 2px #5454ce;
+    padding: 1%;
+    
+}
+.ultima-sessao a:hover{
+    color: white;
+    background-color: #5454ce;
 }
 /*** Depoimento***/
 .depoimento{
